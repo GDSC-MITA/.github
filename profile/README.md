@@ -1,7 +1,8 @@
 ## Hi there 👋
-##Welcom to GDSC MITA
-<!--
+## Welcom to GDSC MITA
 
+![GDSC23-Bevy-2650_BcXVRbs](https://github.com/GDSC-MITA/.github/assets/97901582/a22849df-7ba5-4a98-996c-0c0d3b73951d)
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
