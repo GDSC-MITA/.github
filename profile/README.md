@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Welcom to GDSC MITA
+##Welcom to GDSC MITA
 <!--
 
 **Here are some ideas to get you started:**
