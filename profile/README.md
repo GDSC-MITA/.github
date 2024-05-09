@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## Welcom to GDSC MITA
+![Uploading logo_dark_horizontal_097s7oa.svg…](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_horizontal_097s7oa.svg)
 
 ![GDSC23-Bevy-2650_BcXVRbs](https://github.com/GDSC-MITA/.github/assets/97901582/a22849df-7ba5-4a98-996c-0c0d3b73951d)
 <!--
